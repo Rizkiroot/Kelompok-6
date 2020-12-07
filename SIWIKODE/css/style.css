@@ -15,8 +15,10 @@ li {
 	display: inline;
 	text-align: center;
 	padding: 5px;
-	font-size: 20px;
-}
+	font-size: 20px;}
+/*	==============
+	-- NAVBAR --
+	==============*/
 .nav-1{}
 	.nav-1_2{
 		display: inline;
