@@ -1,0 +1,34 @@
+h1 {
+	text-align: center;
+}
+
+a:hover,
+a:active,
+a:focus {
+	color: #719a0a;
+    outline: none;
+}
+ul{
+	list-style-type: none; 
+}
+li {
+	display: inline;
+	text-align: center;
+	padding: 5px;
+	font-size: 20px;
+}
+.nav-1{}
+	.nav-1_2{
+		display: inline;
+		text-align: center;
+		padding: 5px;
+		font-size: 20px;}
+	.navbar-left_1{	
+		border-right:  2px black solid;}
+	.navbar-left_2{	
+		border-right:  2px black solid;}
+	.navbar-left_3{	
+		border-right:  2px black solid;}
+	.navbar-right_1{
+		float:  right;
+		padding-right: 5%;}
